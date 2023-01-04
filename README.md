@@ -1,2 +1,4 @@
 # arrivo_app
-An web based application.
+A web based application.
+
+Mostly build using flutter.
